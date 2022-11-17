@@ -1,12 +1,17 @@
 ### Hi there 👋
 
+I am Ricardo Borutta! Currently I am studying computer science at the HWR in Berlin. 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevCyntrix&count_private=true&show_icons=true&bg_color=30,112d61,904e95&title_color=fff&text_color=fff)
+
+- 🌱 I’m currently learning GoLang, C, C++
+- 🔭 In the future I want to learn Rust and Assembly x86
 <!--
 **DevCyntrix/DevCyntrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
